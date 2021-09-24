@@ -1,0 +1,15 @@
+//
+//  SceneDelegate.h
+//  OCWebViewDemo
+//
+//  Created by JSH on 2021/9/5.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
